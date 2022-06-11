@@ -8,3 +8,6 @@ Hoy hablaremos de su historia.
 Soy un hombre temeroso de Dios, que le gusta obetener nuevos 
 conocimientos, y le esta apacionando el mundo de la programacion,
 me gusta estar bien tanto fisicamente, como espiritualmente.
+
+Hoy soy funcionario publico, pero quiero laborar en una startup 
+como programador en JavaScript.
