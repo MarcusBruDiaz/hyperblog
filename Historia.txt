@@ -11,6 +11,7 @@ me gusta estar bien tanto fisicamente, como espiritualmente.
 Hoy soy funcionario publico, pero quiero laborar en una startup 
 como programador en JavaScript.
 
-Anita Platzi tiene 41 años y nacio en internea
+Anita Platzi es una persona que contribuye en este proyecto 
+open source y nacio en internea
 
-49b4a8d1283d72c783e388a670860ced4ac9a964
+
