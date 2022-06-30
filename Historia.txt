@@ -12,6 +12,6 @@ Hoy soy funcionario publico, pero quiero laborar en una startup
 como programador en JavaScript.
 
 Anita Platzi es una persona que contribuye en este proyecto 
-open source y nacio en internea
+open source y nacio en internet.
 
 
